@@ -1,5 +1,5 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
-<h1>DATE:16-04-24</h1>
+DATE: 16-04-24
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
